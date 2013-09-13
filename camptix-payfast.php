@@ -5,7 +5,7 @@
  * Description: PayFast Payment Gateway for CampTix
  * Author: Gerhard Potgieter
  * Author URI: http://gerhardpotgieter.com/
- * Version: 1.0
+ * Version: 1.0.0
  * License: GPLv2 or later
  */
 
